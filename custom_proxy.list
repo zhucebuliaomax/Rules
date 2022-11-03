@@ -3,3 +3,8 @@ DOMAIN-SUFFIX,getcleanshot.com
 # Steam
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
+# ExHentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+# RARBG
+DOMAIN-SUFFIX,rarbgprx.org
