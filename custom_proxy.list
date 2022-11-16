@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,rarbgprx.org
 # JAVDB
 DOMAIN-SUFFIX,javdb.com
+# 禁漫天堂
+DOMAIN-KEYWORD,jmcomics
