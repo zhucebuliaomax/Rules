@@ -1,16 +1,7 @@
-# Steam
-DOMAIN-SUFFIX,store.steampowered.com
-DOMAIN-SUFFIX,steamcommunity.com
 # ExHentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 # RARBG
 DOMAIN-SUFFIX,rarbgprx.org
-# JAVDB
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-KEYWORD,javdb
-# 禁漫天堂
-DOMAIN-KEYWORD,jmcomics
-DOMAIN-SUFFIX,18comic.vip
 # ChatGPT
 DOMAIN-SUFFIX,openai.com
