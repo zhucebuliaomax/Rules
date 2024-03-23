@@ -1,0 +1,20 @@
+# 哔咔
+.picacomic.com
+
+# 拷贝漫画
+.mangacopy.com
+.mangafuna.xyz
+
+# nHentai
+.nhentai.net
+
+# MangaDex
+.mangadex.org
+.mangadex.network
+
+# Others
+.kemono.party
+.kemono.su
+.freedl.org
+.8muses.com
+.akuma.moe

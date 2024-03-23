@@ -1,0 +1,30 @@
+name: Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # 每周日运行一次
+  workflow_dispatch: # 也允许手动触发
+
+jobs:
+  sync-and-replace:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+      
+    - name: Fetch Steam.list from external repository
+      run: |
+        curl -o ./Stash/Steam.txt https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+        sed -i 's/DOMAIN,//g' ./Stash/Steam.txt
+        sed -i 's/DOMAIN-SUFFIX,/./g' ./Stash/Steam.txt
+        
+    - name: Fetch SteamCN.list from external repository
+      run: |
+        curl -o ./Stash/SteamCN.txt https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
+        sed -i 's/DOMAIN,//g' ./Stash/SteamCN.txt
+        sed -i 's/DOMAIN-SUFFIX,/./g' ./Stash/SteamCN.txt
+
+    - name: Commit and push if changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update Steam lists with replaced text'

@@ -1,0 +1,7 @@
+# GOG下载
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
+# 阿里云
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,aliyundrive.com
+# Speedtest
+DOMAIN-SUFFIX,speedtest.net

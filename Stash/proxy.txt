@@ -1,0 +1,69 @@
+# Anime & Movie
+.mikanani.me
+.torrentgalaxy.to
+.subhd.tv
+.mypikpak.com
+.tvtime.com
+
+# Social
+.threads.net
+.misskey.io
+.crepu.net
+
+# Software
+.apkpure.net
+.docker.com
+.freemacsoft.net
+.getcleanshot.com
+.cleanshot.cloud
+cdn.winget.microsoft.com
+.elgato.com
+.orbstack.dev
+.agilebits.com
+.1password.com
+.1passwordusercontent.com
+.gpsoft.com.au
+.dopus.com
+.capcut.com
+.f-droid.org
+.craft.do
+.craft.me
+.winudf.com
+.search.arc.net
+
+# Game
+.steamcommunity.com
+store.steampowered.com
+
+# Web
+.innoreader.com
+.textnow.com
+.monkeytype.com
+.loli.net
+.1lib.ph
+.threads.net
+.techcrunch.com
+.itch.io
+.itch.zone
+.misskey.io
+.kxcdn.com
+.ydkb.io
+.patreonusercontent.com
+.instatus.com
+.medium.com
+
+# 折腾
+.godaddy.com
+.vercel.com
+.docker.io
+.netlify.com
+
+# Design
+.figma.com
+.dribbble.com
+.layers.to
+
+# 造反
+.rfa.org
+# Shopping
+.oyunfor.com
