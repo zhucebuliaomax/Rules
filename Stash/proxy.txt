@@ -9,6 +9,7 @@
 .threads.net
 .misskey.io
 .crepu.net
+.linktr.ee
 
 # Software
 .apkpure.net
