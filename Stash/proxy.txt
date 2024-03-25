@@ -46,12 +46,19 @@ store.steampowered.com
 .techcrunch.com
 .itch.io
 .itch.zone
-.misskey.io
 .kxcdn.com
 .ydkb.io
 .patreonusercontent.com
 .instatus.com
 .medium.com
+.gridea.dev
+
+# NSFW
+.javdb.com
+.fanbox.cc
+.sehuatang.org
+.cgw.life
+.hath.network
 
 # 折腾
 .godaddy.com
@@ -66,5 +73,6 @@ store.steampowered.com
 
 # 造反
 .rfa.org
+
 # Shopping
 .oyunfor.com
