@@ -59,6 +59,7 @@ store.steampowered.com
 .sehuatang.org
 .cgw.life
 .hath.network
+.javrate.com
 
 # 折腾
 .godaddy.com
