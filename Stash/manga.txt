@@ -12,6 +12,9 @@
 .mangadex.org
 .mangadex.network
 
+# Hentai@Home
+.hath.network
+
 # Others
 .kemono.party
 .kemono.su
