@@ -26,3 +26,17 @@ xz.pphimalayanrt.com
 .steamcontent.com
 .steamserver.net
 .steamusercontent.com
+
+# WeChat
+.qlogo.cn
+.qpic.cn
+.weixin.qq.com
+.wxapp.tc.qq.com
+.servicewechat.com
+.tenpay.com
+.wechat.com
+.wechatlegal.net
+.wechatpay.com
+.weixin.com
+.weixinbridge.com
+.weixinsxy.com
