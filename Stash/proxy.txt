@@ -53,6 +53,7 @@ store.steampowered.com
 .medium.com
 .gridea.dev
 .duckduckgo.com
+.missuo.me
 
 # NSFW
 .javdb.com
