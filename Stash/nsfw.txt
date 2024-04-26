@@ -2,4 +2,3 @@
 .fanbox.cc
 .sehuatang.org
 .cgw.life
-.hath.network
