@@ -54,6 +54,7 @@ store.steampowered.com
 .gridea.dev
 .duckduckgo.com
 .missuo.me
+clientstream.launchdarkly.com
 
 # NSFW
 .javdb.com
