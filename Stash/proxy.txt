@@ -61,7 +61,6 @@ clientstream.launchdarkly.com
 .fanbox.cc
 .sehuatang.org
 .cgw.life
-.hath.network
 .javrate.com
 
 # 折腾
