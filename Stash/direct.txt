@@ -21,3 +21,6 @@ gog-cdn-lumen.secure2.footprint.net
 .weixin.com
 .weixinbridge.com
 .weixinsxy.com
+
+# EHentai
+.hath.work
