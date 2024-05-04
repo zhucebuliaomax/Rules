@@ -55,6 +55,7 @@ store.steampowered.com
 .duckduckgo.com
 .missuo.me
 clientstream.launchdarkly.com
+.rentry.co
 
 # NSFW
 .javdb.com
