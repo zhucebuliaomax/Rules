@@ -23,4 +23,4 @@ gog-cdn-lumen.secure2.footprint.net
 .weixinsxy.com
 
 # EHentai
-.hath.work
+.hath.network
