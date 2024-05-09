@@ -24,7 +24,7 @@ jobs:
         sed -i 's/DOMAIN,//g' ./Stash/SteamCN.txt
         sed -i 's/DOMAIN-SUFFIX,/./g' ./Stash/SteamCN.txt
     
-    - name: Fetch SteamCN.list from external repository
+    - name: Fetch OpenAI.list from external repository
       run: |
         curl -o ./Stash/OpenAI.txt https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAI.list
         sed -i 's/DOMAIN,//g' ./Stash/OpenAI.txt
