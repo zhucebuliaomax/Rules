@@ -1,0 +1,34 @@
+# 哔咔
+DOMAIN-SUFFIX,picacomic.com
+
+# 拷贝漫画
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+
+# nHentai
+DOMAIN-SUFFIX,nhentai.net
+
+# MangaDex
+DOMAIN-SUFFIX,mangadex.org
+DOMAIN-SUFFIX,mangadex.network
+
+#E-Hentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+
+# Others
+DOMAIN-SUFFIX,kemono.party
+DOMAIN-SUFFIX,kemono.su
+DOMAIN-SUFFIX,freedl.org
+DOMAIN-SUFFIX,8muses.com
+DOMAIN-SUFFIX,akuma.moe
+
+# MangaPlus
+DOMAIN,jumpg-webapi.tokyo-cdn.com
+DOMAIN-SUFFIX,shueisha.co.jp
+
+# K Manga
+DOMAIN-SUFFIX,kodansha.com
+
+# Manhwa
+DOMAIN-SUFFIX,toonily.com

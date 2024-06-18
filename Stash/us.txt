@@ -1,6 +1,0 @@
-# MangaPlus
-jumpg-webapi.tokyo-cdn.com
-.shueisha.co.jp
-
-# K Manga
-.kodansha.com

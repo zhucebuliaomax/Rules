@@ -22,3 +22,10 @@
 .freedl.org
 .8muses.com
 .akuma.moe
+
+# MangaPlus
+jumpg-webapi.tokyo-cdn.com
+.shueisha.co.jp
+
+# K Manga
+.kodansha.com
