@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,ydkb.io
 DOMAIN-SUFFIX,search.arc.net
+DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,gpsoft.com.au
@@ -77,3 +78,4 @@ DOMAIN-SUFFIX,layers.to
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN,store.steampowered.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,duolingo.com
