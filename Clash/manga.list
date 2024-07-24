@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,akuma.moe
 
 # MangaPlus
 DOMAIN,jumpg-webapi.tokyo-cdn.com
+DOMAIN,jumpg-assets.tokyo-cdn.com
 DOMAIN-SUFFIX,shueisha.co.jp
 
 # K Manga
