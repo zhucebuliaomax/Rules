@@ -33,3 +33,10 @@ DOMAIN-SUFFIX,kodansha.com
 
 # Manhwa
 DOMAIN-SUFFIX,toonily.com
+
+# Arc
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,search.arc.net
+
+# TorrentyGalaxy
+DOMAIN-SUFFIX,torrentgalaxy.to
