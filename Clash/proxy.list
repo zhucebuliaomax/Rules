@@ -85,5 +85,8 @@ DOMAIN-SUFFIX,bitsearch.to
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN,images.gamebanana.com
 DOMAIN-SUFFIX,ko-fi.com
+# bluesky
 DOMAIN-SUFFIX,bluesky.social
 DOMAIN-SUFFIX,bluesky.app
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.app
