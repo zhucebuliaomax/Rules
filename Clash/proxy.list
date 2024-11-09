@@ -93,3 +93,5 @@ DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 # network
 DOMAIN,stackpath.bootstrapcdn.com
+# proxy
+DOMAIN-SUFFIX,iproyal.com
