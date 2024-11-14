@@ -95,3 +95,5 @@ DOMAIN-SUFFIX,bsky.network
 DOMAIN,stackpath.bootstrapcdn.com
 # proxy
 DOMAIN-SUFFIX,iproyal.com
+# crypto
+DOMAIN-SUFFIX,solscan.io
