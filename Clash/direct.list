@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,hath.network
 # Nvidia
 DOMAIN-SUFFIX,download.nvidia.com
+# Google CDN
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
