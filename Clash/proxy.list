@@ -98,3 +98,5 @@ DOMAIN-SUFFIX,iproyal.com
 # crypto
 DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,gmgn.ai
+# code
+DOMAIN-SUFFIX,cursor.sh
