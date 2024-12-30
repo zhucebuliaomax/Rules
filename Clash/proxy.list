@@ -100,3 +100,5 @@ DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,gmgn.ai
 # code
 DOMAIN-SUFFIX,cursor.sh
+# NeoDB
+DOMAIN-SUFFIX,neodb.social
