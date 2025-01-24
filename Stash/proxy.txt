@@ -108,3 +108,5 @@ stackpath.bootstrapcdn.com
 # Arc
 .arc.net
 .search.arc.net
+# SSReady
+.srdy.app
