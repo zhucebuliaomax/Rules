@@ -84,6 +84,7 @@ store.steampowered.com
 .bitsearch.to
 .qbittorrent.org
 images.gamebanana.com
+.cobalt.tools
 .ko-fi.com
 # bluesky
 .bluesky.social
