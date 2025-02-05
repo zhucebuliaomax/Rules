@@ -45,4 +45,21 @@ dl-a10b-0884.mypikpak.com
 dl-a10b-0885.mypikpak.com
 dl-a10b-0886.mypikpak.com
 dl-a10b-0887.mypikpak.com
+# Steam
+csgo.wmsj.cn
+dl.steam.clngaa.com
+dl.steam.ksyna.com
+dota2.wmsj.cn
+st.dl.bscstorage.net
+st.dl.eccdnx.com
+st.dl.pinyuncloud.com
+steampipe.steamcontent.tnkjmec.com
+steampowered.com.8686c.com
+steamstatic.com.8686c.com
+wmsjsteam.com
+xz.pphimalayanrt.com
+.cm.steampowered.com
+.steamchina.com
+.steamcontent.com
+.steamusercontent.com
 
