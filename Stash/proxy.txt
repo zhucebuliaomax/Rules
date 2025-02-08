@@ -86,6 +86,7 @@ store.steampowered.com
 images.gamebanana.com
 .cobalt.tools
 .ko-fi.com
+.paperback.moe
 # bluesky
 .bluesky.social
 .bluesky.app
