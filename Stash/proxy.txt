@@ -87,6 +87,7 @@ images.gamebanana.com
 .cobalt.tools
 .ko-fi.com
 .paperback.moe
+.gifer.com
 # bluesky
 .bluesky.social
 .bluesky.app
