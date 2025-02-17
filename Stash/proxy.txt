@@ -88,29 +88,57 @@ images.gamebanana.com
 .ko-fi.com
 .paperback.moe
 .gifer.com
+
 # bluesky
 .bluesky.social
 .bluesky.app
 .bsky.social
 .bsky.app
 .bsky.network
+
 # network
 stackpath.bootstrapcdn.com
+
 # proxy
 .iproyal.com
+
 # crypto
 .solscan.io
 .gmgn.ai
 # code
 .cursor.sh
+
 # NeoDB
 .neodb.social
+
 # ASMR
 .asmr.one
 .fanbox.cc
+
 # Arc
 .arc.net
 .search.arc.net
+
 # SSReady
 .srdy.app
 .acgrip.com
+
+# Steam
+steambroadcast.akamaized.net
+steamcommunity-a.akamaihd.net
+steampipe.akamaized.net
+steamstore-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steamuserimages-a.akamaihd.net
+.fanatical.com
+.humblebundle.com
+.playartifact.com
+.steam-chat.com
+.steamcommunity.com
+.steamgames.com
+.steampowered.com
+.steamserver.net
+.steamstat.us
+.steamstatic.com
+.underlords.com
+.valvesoftware.com
