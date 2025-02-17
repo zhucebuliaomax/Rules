@@ -1,1 +1,6 @@
 .trae.ai
+
+# Grok
+.grok.com
+.grok.ai
+.x.ai
