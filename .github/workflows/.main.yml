@@ -2,7 +2,7 @@ name: Sync
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # 每周日运行一次
+    # - cron: '0 0 * * 0' # 每周日运行一次
   workflow_dispatch: # 也允许手动触发
 
 jobs:
