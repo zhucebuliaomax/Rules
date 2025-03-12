@@ -25,6 +25,7 @@
 .akuma.moe
 
 # MangaPlus
+jumpg-api.tokyo-cdn.com
 jumpg-webapi.tokyo-cdn.com
 jumpg-assets.tokyo-cdn.com
 .shueisha.co.jp
