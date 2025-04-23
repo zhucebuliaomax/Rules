@@ -88,6 +88,7 @@ images.gamebanana.com
 .ko-fi.com
 .paperback.moe
 .gifer.com
+.note.com
 
 # bluesky
 .bluesky.social
@@ -118,6 +119,7 @@ stackpath.bootstrapcdn.com
 # Arc
 .arc.net
 .search.arc.net
+.diabrowser.engneering
 
 # SSReady
 .srdy.app
