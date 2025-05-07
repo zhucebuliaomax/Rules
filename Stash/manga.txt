@@ -38,3 +38,7 @@ jumpg-assets.tokyo-cdn.com
 
 # Komiflo
 .komiflo.com
+
+# bato
+.bato.to
+.mangatoto.com

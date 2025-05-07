@@ -119,7 +119,7 @@ stackpath.bootstrapcdn.com
 # Arc
 .arc.net
 .search.arc.net
-.diabrowser.engneering
+.diabrowser.engineering
 
 # SSReady
 .srdy.app
