@@ -89,6 +89,7 @@ images.gamebanana.com
 .paperback.moe
 .gifer.com
 .note.com
+.komga.org
 
 # bluesky
 .bluesky.social
