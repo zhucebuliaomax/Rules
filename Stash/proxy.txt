@@ -121,6 +121,7 @@ stackpath.bootstrapcdn.com
 .arc.net
 .search.arc.net
 .diabrowser.engineering
+.diabrowser.com
 
 # SSReady
 .srdy.app
