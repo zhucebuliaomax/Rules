@@ -107,8 +107,10 @@ stackpath.bootstrapcdn.com
 # crypto
 .solscan.io
 .gmgn.ai
+
 # code
 .cursor.sh
+.trae.ai
 
 # NeoDB
 .neodb.social
@@ -146,3 +148,14 @@ steamuserimages-a.akamaihd.net
 .steamstatic.com
 .underlords.com
 .valvesoftware.com
+
+# nsfw
+.sehuatang.org
+.javdb.com
+.jdbstatic.com
+.sehuatang.org
+.cgw.life
+.missav.com
+.hanime1.me
+.missav.ws
+.missav.ai
