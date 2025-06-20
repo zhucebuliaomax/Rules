@@ -159,4 +159,5 @@ steamuserimages-a.akamaihd.net
 .hanime1.me
 .missav.ws
 .missav.ai
+asmr.one
 .asmr.one
