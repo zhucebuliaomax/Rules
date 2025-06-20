@@ -1,14 +1,19 @@
 # GOG下载
 gog-cdn-lumen.secure2.footprint.net
+
 # 阿里云
 .aliyundrive.net
 .aliyundrive.com
+
 # EHentai
 .hath.network
+
 # Nvidia
 .download.nvidia.com
+
 # Google CDN
 .xn--ngstr-lra8j.com
+
 # PikPak
 dl-a10b-0621.mypikpak.com
 dl-a10b-0622.mypikpak.com
@@ -46,3 +51,5 @@ dl-a10b-0885.mypikpak.com
 dl-a10b-0886.mypikpak.com
 dl-a10b-0887.mypikpak.com
 
+#apple
+osxapps.itunes.apple.com
