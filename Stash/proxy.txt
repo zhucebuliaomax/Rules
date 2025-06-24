@@ -90,6 +90,7 @@ images.gamebanana.com
 .gifer.com
 .note.com
 .komga.org
+.colbalt.tools
 
 # bluesky
 .bluesky.social
