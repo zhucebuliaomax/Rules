@@ -91,6 +91,7 @@ images.gamebanana.com
 .note.com
 .komga.org
 .colbalt.tools
+.as.mr
 
 # bluesky
 .bluesky.social

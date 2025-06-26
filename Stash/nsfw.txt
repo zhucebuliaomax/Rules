@@ -9,3 +9,4 @@
 .missav.ai
 asmr.one
 .asmr.one
+.as.mr
