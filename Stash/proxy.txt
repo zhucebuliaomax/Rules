@@ -93,6 +93,7 @@ images.gamebanana.com
 .komga.org
 .colbalt.tools
 .as.mr
+.pbh-btn.com
 
 # bluesky
 .bluesky.social
