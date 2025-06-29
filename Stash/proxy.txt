@@ -80,8 +80,6 @@ store.steampowered.com
 .github.com
 .githubusercontent.com
 .duolingo.com
-plex.tv
-.plex.tv
 .bitsearch.to
 .qbittorrent.org
 images.gamebanana.com
