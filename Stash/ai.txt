@@ -1,12 +1,12 @@
-.trae.ai
++.trae.ai
 
 # Grok
-.grok.com
-.grok.ai
-.x.ai
++.grok.com
++.grok.ai
++.x.ai
 
 # Arc
-.arc.net
-.search.arc.net
-.diabrowser.engineering
-.diabrowser.com
++.arc.net
++.search.arc.net
++.diabrowser.engineering
++.diabrowser.com
