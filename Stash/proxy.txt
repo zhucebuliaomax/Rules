@@ -88,7 +88,7 @@ images.gamebanana.com
 +.gifer.com
 +.note.com
 +.komga.org
-+.colbalt.tools
++.cobalt.tools
 +.pbh-btn.com
 
 # bluesky
