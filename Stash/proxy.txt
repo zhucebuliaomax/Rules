@@ -90,6 +90,7 @@ images.gamebanana.com
 +.komga.org
 +.cobalt.tools
 +.pbh-btn.com
++.tmdb.org
 
 # bluesky
 +.bluesky.social
