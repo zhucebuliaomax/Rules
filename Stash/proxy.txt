@@ -91,6 +91,7 @@ images.gamebanana.com
 +.cobalt.tools
 +.pbh-btn.com
 +.tmdb.org
++.themoviedb.org
 
 # bluesky
 +.bluesky.social
