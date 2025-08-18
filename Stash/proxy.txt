@@ -92,6 +92,7 @@ images.gamebanana.com
 +.pbh-btn.com
 +.tmdb.org
 +.themoviedb.org
++.blue-plus.net
 
 # bluesky
 +.bluesky.social
