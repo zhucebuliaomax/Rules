@@ -135,7 +135,6 @@ stackpath.bootstrapcdn.com
 # Steam
 steambroadcast.akamaized.net
 steamcommunity-a.akamaihd.net
-steampipe.akamaized.net
 steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
