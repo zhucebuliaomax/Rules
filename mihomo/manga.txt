@@ -2,6 +2,7 @@
 +.e-hentai.org
 +.exhentai.org
 +.hath.network
++.ehgt.org
 
 # 哔咔
 +.picacomic.com
