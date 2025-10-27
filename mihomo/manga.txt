@@ -1,0 +1,39 @@
+#E-Hentai
++.e-hentai.org
++.exhentai.org
++.hath.network
+
+# 哔咔
++.picacomic.com
+
+# 拷贝漫画
++.mangacopy.com
++.mangafuna.xyz
+
+# NHentai
++.nhentai.net
++.nhentai.xxx
+
+# MangaDex
++.mangadex.org
++.mangadex.network
+
+# K Manga
++.kodansha.com
+
+# Manhwa
++.toonily.com
+
+# Komiflo
++.komiflo.com
+
+# bato
++.bato.to
++.mangatoto.com
+
+# Others
++.kemono.party
++.kemono.su
++.freedl.org
++.8muses.com
++.akuma.moe
