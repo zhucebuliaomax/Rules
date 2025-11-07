@@ -1,5 +1,6 @@
-# GOG下载
+# 一些下载路径
 gog-cdn-lumen.secure2.footprint.net
+swr.cloud.blackmagicdesign.com
 
 # 阿里云
 .aliyundrive.net
