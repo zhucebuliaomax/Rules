@@ -93,6 +93,7 @@ images.gamebanana.com
 +.tmdb.org
 +.themoviedb.org
 +.blue-plus.net
++.basedinchina.com
 
 # bluesky
 +.bluesky.social
