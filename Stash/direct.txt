@@ -17,3 +17,9 @@ swr.cloud.blackmagicdesign.com
 
 #apple
 osxapps.itunes.apple.com
+
+#steam
+steamcdn-a.akamaihd.net
++.cm.steampowered.com
++.steamserver.net
++.steamcontent.com
