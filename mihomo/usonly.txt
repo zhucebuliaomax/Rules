@@ -1,0 +1,10 @@
+# Arc
++.arc.net
++.search.arc.net
++.diabrowser.engineering
++.diabrowser.com
+
+# MangaPlus
+jumpg-webapi.tokyo-cdn.com
+jumpg-assets.tokyo-cdn.com
++.shueisha.co.jp
