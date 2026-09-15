@@ -8,3 +8,6 @@
 jumpg-webapi.tokyo-cdn.com
 jumpg-assets.tokyo-cdn.com
 +.shueisha.co.jp
+
+# textnow
++.textnow.com
