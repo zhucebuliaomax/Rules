@@ -11,6 +11,7 @@ jumpg-assets.tokyo-cdn.com
 
 # textnow
 +.textnow.com
++.textnow.me
 
 # Polymarket
 +.polymarket.us
